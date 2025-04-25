@@ -1,0 +1,7 @@
+D:\Repositorios C#\Encuestadores\Encuestadores\bin\Debug\Encuestadores.exe.config
+D:\Repositorios C#\Encuestadores\Encuestadores\bin\Debug\Encuestadores.exe
+D:\Repositorios C#\Encuestadores\Encuestadores\bin\Debug\Encuestadores.pdb
+D:\Repositorios C#\Encuestadores\Encuestadores\obj\Debug\Encuestadores.csproj.AssemblyReference.cache
+D:\Repositorios C#\Encuestadores\Encuestadores\obj\Debug\Encuestadores.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Encuestadores\Encuestadores\obj\Debug\Encuestadores.exe
+D:\Repositorios C#\Encuestadores\Encuestadores\obj\Debug\Encuestadores.pdb
